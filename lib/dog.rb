@@ -21,3 +21,6 @@ def breed
 end
 
 end
+
+fido = Dog.new("Mutt")
+
